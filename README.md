@@ -2,8 +2,8 @@
 1) Project for exploratory testing for Monefy mobile application:
 
 You can find it in the following place: 
-https://github.com/marianogithub/Yellowpepper/blob/main/Exploratory%20Test%20Plan%20Yellowpepper.odt
 
+https://github.com/marianogithub/Yellowpepper/blob/main/YellowPepper.md
 
 2) Project for automate Swagger API 
 
